@@ -1,2 +1,2 @@
 # InpresDelivery
- Application de livraison en C (UNIX)
+ Application de livraisons et gestion de stocks (UNIX)
